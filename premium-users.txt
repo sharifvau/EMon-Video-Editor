@@ -1,8 +1,5 @@
-premium-users.txt
-----------------------------
 {
-( "1" "emonbhai" ),
-( "2" "emonbhai2" ),
-( "3" "emonbhai3" )
+( "1" "emonbhai" "full" ),
+( "2" "emonbhai2" "normal" ),
+( "3" "emonfree" "free" )
 }
-----------------------------
