@@ -1,22 +1,11 @@
 {
-  "title": "💎 Buy Premium Access – EMon-BHai Editor",
-  "note": "To unlock Premium Features (Full / Normal), please contact the Admin directly.",
-  "options": [
-    {
-      "platform": "📧 Gmail",
-      "label": "Email us",
-      "contact": "emonhawladar311@gmail.com"
-    },
-    {
-      "platform": "📘 Facebook",
-      "label": "Message on Facebook",
-      "link": "https://facebook.com/EMon.BHai.FACEBOOK"
-    },
-    {
-      "platform": "🟢 WhatsApp",
-      "label": "Chat on WhatsApp",
-      "number": "+8801309991724"  // আপনার নাম্বার দিন
-    }
-  ],
-  "footer": "We’ll respond within 24 hours. Thanks for your support! ❤️ – EMon-BHai Team"
+  "title": "💎 EMon-BHai Premium Info",
+  "note": "This app is free for everyone. Premium access is just a way to recognize and support our loyal users. No payment is required – only love and connection. ❤️",
+  "how_to_get": "To get Premium Access (Full or Normal), just contact EMon-BHai and say 'Hi!' – That’s it!",
+  "contact": {
+    "gmail": "emonbhai.business@gmail.com",
+    "facebook": "https://facebook.com/EMon.BHai.FACEBOOK",
+    "whatsapp": "+8801309991724"
+  },
+  "footer": "Thank you for being a part of EMon-BHai’s dream. Let’s create magic together! 🎬"
 }
