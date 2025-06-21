@@ -1,0 +1,17 @@
+{
+  "gemini": [
+    "AIzaSyA-YourGoogleAIStudioKey1",
+    "AIzaSyA-YourBackupGeminiKey2"
+  ],
+  "gpt": [
+    "sk-Your-GPT-Key1",
+    "sk-Your-GPT-Backup-Key2"
+  ],
+  "removebg": [
+    "your-removebg-key-1",
+    "your-removebg-key-2"
+  ],
+  "imagegen": [
+    "imagegen-key-1"
+  ]
+}
