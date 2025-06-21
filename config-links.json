@@ -1,0 +1,7 @@
+{
+  "logo": "https://raw.githubusercontent.com/sharifvau/EMon-Video-Editor/main/emonbhai.png",
+  "premium_users": "https://raw.githubusercontent.com/sharifvau/EMon-Video-Editor/main/premium-users.json",
+  "admin_info": "https://raw.githubusercontent.com/sharifvau/EMon-Video-Editor/main/admin-info.json",
+  "notice": "https://raw.githubusercontent.com/sharifvau/EMon-Video-Editor/main/notice-message.txt",
+  "api_keys": "https://raw.githubusercontent.com/sharifvau/EMon-Video-Editor/main/api-keys.json"
+}
