@@ -1,0 +1,14 @@
+🚫 Dear user,
+
+Your access to **EMon Video Editor** has been denied.
+
+🛑 Reason: {{ban_reason}}
+
+If you believe this is a mistake or have questions, please contact the admin team below:
+
+📧 Email: emonhawladar311@gmail.com  
+🌐 Facebook: https://facebook.com/EMon.BHai.FACEBOOK
+
+Thank you for understanding.
+
+– EMon-BHai Team ❤️
