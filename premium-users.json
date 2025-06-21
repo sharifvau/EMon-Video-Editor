@@ -1,0 +1,9 @@
+{
+  "full": [
+    { "username": "emonbhai", "joined": "2025-06-21" },
+    { "username": "vipuser", "joined": "2025-06-20" }
+  ],
+  "normal": [
+    { "username": "guestuser", "joined": "2025-06-19" }
+  ]
+}
