@@ -1,0 +1,23 @@
+{
+  "full": {
+    "greeting": "👑 Welcome, VIP Editor!",
+    "notice": "🎉 You have FULL access to all premium features. Enjoy editing like a Pro!",
+    "badge": "FULL ACCESS ✅",
+    "export": "Pro Export Mode Enabled",
+    "watermark": false
+  },
+  "normal": {
+    "greeting": "🌟 Hello, Editor!",
+    "notice": "🛠️ You have access to most features. Upgrade for full access.",
+    "badge": "Normal User 🛠️",
+    "export": "Standard Export Mode",
+    "watermark": true
+  },
+  "free": {
+    "greeting": "✋ Welcome to EMon Video Editor!",
+    "notice": "🔒 Some features are locked. Contact EMon-BHai for premium access.",
+    "badge": "Free User 🎨",
+    "export": "Basic Export Mode",
+    "watermark": true
+  }
+}
