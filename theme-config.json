@@ -1,0 +1,48 @@
+{
+  "active_theme": "darkred",
+
+  "themes": {
+    "default": {
+      "primaryColor": "#00BCD4",
+      "secondaryColor": "#FFFFFF",
+      "textColor": "#000000",
+      "backgroundMode": "light"
+    },
+    "darkred": {
+      "primaryColor": "#FF0000",
+      "secondaryColor": "#111111",
+      "textColor": "#FFFFFF",
+      "backgroundMode": "dark"
+    },
+    "white": {
+      "primaryColor": "#FFFFFF",
+      "secondaryColor": "#EEEEEE",
+      "textColor": "#000000",
+      "backgroundMode": "light"
+    },
+    "black": {
+      "primaryColor": "#000000",
+      "secondaryColor": "#222222",
+      "textColor": "#FFFFFF",
+      "backgroundMode": "dark"
+    },
+    "emonbhai-gold": {
+      "primaryColor": "#FFD700",
+      "secondaryColor": "#1A1A1A",
+      "textColor": "#FFFFFF",
+      "backgroundMode": "dark"
+    },
+    "greenbangla": {
+      "primaryColor": "#006A4E",
+      "secondaryColor": "#F8F8F8",
+      "textColor": "#000000",
+      "backgroundMode": "light"
+    },
+    "pinkforgirls": {
+      "primaryColor": "#E91E63",
+      "secondaryColor": "#FFF0F5",
+      "textColor": "#000000",
+      "backgroundMode": "light"
+    }
+  }
+}
